@@ -10,7 +10,7 @@ le = joblib.load('label_encoder.pkl')
 # Load feature names (your reduced 20 features)
 feature_names = ['skin_rash', 'chills', 'joint_pain', 'stomach_pain', 'vomiting','fatigue', 'weight_loss', 'high_fever', 'sweating', 'headache','nausea', 'loss_of_appetite', 'abdominal_pain', 'diarrhoea','yellowing_of_eyes', 'malaise', 'chest_pain', 'dizziness','irritability', 'muscle_pain']
 
-st.title("Disease Prediction App")
+st.title("Uncertain Symptoms checker using fuzzy logic")
 st.markdown("Select symptoms below and get a disease prediction.")
 
 # Create a checkbox for each feature
