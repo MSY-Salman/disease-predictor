@@ -26,5 +26,5 @@ Department of Data Science, University of the Punjab
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/uncertain-symptoms-checker.git
-cd uncertain-symptoms-checker
+git clone https://github.com/MSY-Salman/disease-predictor.git
+cd disease-predictor
