@@ -1,7 +1,7 @@
 # Uncertain Symptoms Checker using Fuzzy Logic
 
 This project is a **fuzzy logic-based web application** developed using **Streamlit**, designed to assist users in identifying the most probable disease based on uncertain or imprecise symptoms. By incorporating fuzzy inference rules, the system mimics human reasoning to suggest likely conditions from a list of **42 diseases**.
-
+Can be accessed at: https://uncertain-symptom-checker-using-fuzzy-logic.streamlit.app/
 ## 👨‍💻 Developed By
 
 - **Muhammad Salman Younas** (BSDSF22M001)  
